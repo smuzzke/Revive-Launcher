@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ReviveLauncher (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ReviveLauncher (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

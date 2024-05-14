@@ -1,2 +1,2 @@
 # Revive-Launcher
-This is revives launcher for fortnite (got it before it got privated) love yall &lt;3
+ For the people who don't want to boost rios server <3
